@@ -1,9 +1,4 @@
 # Kafka Docker Setup
-
-[![Docker](https://img.shields.io/badge/Docker-Required-blue.svg)](https://www.docker.com/)
-[![Kafka](https://img.shields.io/badge/Apache%20Kafka-3.5+-orange.svg)](https://kafka.apache.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
 I've created a complete Apache Kafka development environment using Docker Compose with all essential components for data streaming and processing. This setup includes everything you need to get started with Kafka development.
 
 ## 📋 Table of Contents
