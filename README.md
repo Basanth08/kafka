@@ -10,8 +10,6 @@ I've created a complete Apache Kafka development environment using Docker Compos
 - [Example Usage](#-example-usage)
 - [Configuration](#-configuration)
 - [Troubleshooting](#-troubleshooting)
-- [Additional Resources](#-additional-resources)
-- [Contributing](#-contributing)
 
 ## ✨ Features
 
